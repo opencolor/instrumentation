@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project relativePaths="false" version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/datacolor/datacolor.iml" filepath="$PROJECT_DIR$/datacolor/datacolor.iml" group="datacolor and modules" />
+      <module fileurl="file://$PROJECT_DIR$/gretagmacbeth/gretagmacbeth.iml" filepath="$PROJECT_DIR$/gretagmacbeth/gretagmacbeth.iml" group="gretagmacbeth and modules" />
+      <module fileurl="file://$PROJECT_DIR$/hunterlabs/hunterlabs.iml" filepath="$PROJECT_DIR$/hunterlabs/hunterlabs.iml" group="hunterlabs and modules" />
+      <module fileurl="file://$PROJECT_DIR$/minolta/minolta.iml" filepath="$PROJECT_DIR$/minolta/minolta.iml" group="minolta and modules" />
+      <module fileurl="file://$PROJECT_DIR$/spectro.iml" filepath="$PROJECT_DIR$/spectro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gretagmacbeth/ce2180/spectro.ce2180.iml" filepath="$PROJECT_DIR$/gretagmacbeth/ce2180/spectro.ce2180.iml" group="gretagmacbeth and modules" />
+      <module fileurl="file://$PROJECT_DIR$/gretagmacbeth/ce3000/spectro.ce3000.iml" filepath="$PROJECT_DIR$/gretagmacbeth/ce3000/spectro.ce3000.iml" group="gretagmacbeth and modules" />
+      <module fileurl="file://$PROJECT_DIR$/gretagmacbeth/ce7000/spectro.ce7000.iml" filepath="$PROJECT_DIR$/gretagmacbeth/ce7000/spectro.ce7000.iml" group="gretagmacbeth and modules" />
+      <module fileurl="file://$PROJECT_DIR$/minolta/cm2002/spectro.cm2002.iml" filepath="$PROJECT_DIR$/minolta/cm2002/spectro.cm2002.iml" group="minolta and modules" />
+      <module fileurl="file://$PROJECT_DIR$/minolta/cm2600d/spectro.cm2600d.iml" filepath="$PROJECT_DIR$/minolta/cm2600d/spectro.cm2600d.iml" group="minolta and modules" />
+      <module fileurl="file://$PROJECT_DIR$/minolta/cm3600d/spectro.cm3600d.iml" filepath="$PROJECT_DIR$/minolta/cm3600d/spectro.cm3600d.iml" group="minolta and modules" />
+      <module fileurl="file://$PROJECT_DIR$/minolta/cm3700d/spectro.cm3700d.iml" filepath="$PROJECT_DIR$/minolta/cm3700d/spectro.cm3700d.iml" group="minolta and modules" />
+      <module fileurl="file://$PROJECT_DIR$/minolta/cm503c/spectro.cm503c.iml" filepath="$PROJECT_DIR$/minolta/cm503c/spectro.cm503c.iml" group="minolta and modules" />
+      <module fileurl="file://$PROJECT_DIR$/minolta/cm508c/spectro.cm508c.iml" filepath="$PROJECT_DIR$/minolta/cm508c/spectro.cm508c.iml" group="minolta and modules" />
+      <module fileurl="file://$PROJECT_DIR$/minolta/cm508d/spectro.cm508d.iml" filepath="$PROJECT_DIR$/minolta/cm508d/spectro.cm508d.iml" group="minolta and modules" />
+      <module fileurl="file://$PROJECT_DIR$/hunterlabs/cqxe/spectro.cqxe.iml" filepath="$PROJECT_DIR$/hunterlabs/cqxe/spectro.cqxe.iml" group="hunterlabs and modules" />
+      <module fileurl="file://$PROJECT_DIR$/datacolor/dci/spectro.dci-common.iml" filepath="$PROJECT_DIR$/datacolor/dci/spectro.dci-common.iml" group="datacolor and modules" />
+      <module fileurl="file://$PROJECT_DIR$/hunterlabs/common/spectro.hunter.common.iml" filepath="$PROJECT_DIR$/hunterlabs/common/spectro.hunter.common.iml" group="hunterlabs and modules" />
+      <module fileurl="file://$PROJECT_DIR$/hunterlabs/lsxe/spectro.lsxe.iml" filepath="$PROJECT_DIR$/hunterlabs/lsxe/spectro.lsxe.iml" group="hunterlabs and modules" />
+      <module fileurl="file://$PROJECT_DIR$/manual/spectro.manual.iml" filepath="$PROJECT_DIR$/manual/spectro.manual.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datacolor/sf300/spectro.sf300.iml" filepath="$PROJECT_DIR$/datacolor/sf300/spectro.sf300.iml" group="datacolor and modules" />
+      <module fileurl="file://$PROJECT_DIR$/datacolor/sf450/spectro.sf450.iml" filepath="$PROJECT_DIR$/datacolor/sf450/spectro.sf450.iml" group="datacolor and modules" />
+      <module fileurl="file://$PROJECT_DIR$/datacolor/sf600/spectro.sf600.iml" filepath="$PROJECT_DIR$/datacolor/sf600/spectro.sf600.iml" group="datacolor and modules" />
+      <module fileurl="file://$PROJECT_DIR$/xrite/sp62/spectro.sp62.iml" filepath="$PROJECT_DIR$/xrite/sp62/spectro.sp62.iml" group="xrite and modules" />
+      <module fileurl="file://$PROJECT_DIR$/xrite/sp68/spectro.sp68.iml" filepath="$PROJECT_DIR$/xrite/sp68/spectro.sp68.iml" group="xrite and modules" />
+      <module fileurl="file://$PROJECT_DIR$/gretagmacbeth/spectrolino/spectro.spectrolino.iml" filepath="$PROJECT_DIR$/gretagmacbeth/spectrolino/spectro.spectrolino.iml" group="gretagmacbeth and modules" />
+      <module fileurl="file://$PROJECT_DIR$/spectro-spi/spectro.spi.iml" filepath="$PROJECT_DIR$/spectro-spi/spectro.spi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xrite/xr8200/spectro.xr8200.iml" filepath="$PROJECT_DIR$/xrite/xr8200/spectro.xr8200.iml" group="xrite and modules" />
+      <module fileurl="file://$PROJECT_DIR$/xrite/xr8400/spectro.xr8400.iml" filepath="$PROJECT_DIR$/xrite/xr8400/spectro.xr8400.iml" group="xrite and modules" />
+      <module fileurl="file://$PROJECT_DIR$/xrite/xr8xxx/spectro.xr8xxx.iml" filepath="$PROJECT_DIR$/xrite/xr8xxx/spectro.xr8xxx.iml" group="xrite and modules" />
+      <module fileurl="file://$PROJECT_DIR$/gretagmacbeth/xth/spectro.xth.iml" filepath="$PROJECT_DIR$/gretagmacbeth/xth/spectro.xth.iml" group="gretagmacbeth and modules" />
+      <module fileurl="file://$PROJECT_DIR$/xrite/xrite.iml" filepath="$PROJECT_DIR$/xrite/xrite.iml" group="xrite and modules" />
+    </modules>
+  </component>
+</project>
+

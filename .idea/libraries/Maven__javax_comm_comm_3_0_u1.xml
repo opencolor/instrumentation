@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: javax.comm:comm:3.0-u1">
+    <CLASSES>
+      <root url="jar://$M2_REPO$/javax/comm/comm/3.0-u1/comm-3.0-u1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$M2_REPO$/javax/comm/comm/3.0-u1/comm-3.0-u1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$M2_REPO$/javax/comm/comm/3.0-u1/comm-3.0-u1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
